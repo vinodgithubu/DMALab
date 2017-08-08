@@ -15,3 +15,6 @@ Demo practice examples on following libraries which help in DMA Lab
 3. NumPy
 
 4. SciPy
+
+
+Note: The following csv files would be used in understanding the usage of libraries inorder to acquire the knowledge w.r.t. data analysis.
